@@ -1,0 +1,28 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+:root{
+
+  /* -- all-color ---------- */
+
+  --color1:rgb(62, 247, 68);
+  --color2:#fff;
+  --color3:#141414;
+  --color4:rgb(219, 219, 219);
+  
+  /* ---- font-size ------ */
+  
+  --fs:3.5rem;
+  --fs1:3rem;
+  --fs2:2.5rem;
+  --fs3:2rem;
+  --fs4:1.5rem;
+  --fs5:1.1rem;
+  --fs6:1rem; 
+  
+}
+
+body{scroll-behavior: smooth;}
+html{overflow-x:hidden;}
+ul li{list-style: none;}
+a{text-decoration: none; color: unset;}
+
+
